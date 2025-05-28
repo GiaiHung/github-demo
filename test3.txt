@@ -1,1 +1,2 @@
 I don't want to be pushed although already committed
+Now I am updated
