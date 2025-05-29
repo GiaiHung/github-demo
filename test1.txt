@@ -1,4 +1,3 @@
 Learning git using Git Tortoise (Updated)
 This content is changed in develop branch
 This is the content for release
-Release 1
